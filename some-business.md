@@ -1,4 +1,4 @@
-# Initial page
+# Some business
 
 ## Getting Super Powers
 
@@ -21,5 +21,9 @@ echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
 
-
+```javascript
+function calcSquare(x) {
+    return x ** 2;
+}
+```
 
