@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Content Page](README.md)
-* [Analysis](analysis-one-page.md)
+* [Analysis](analysis.md)
 
 ## Design/Dev Cycles
 

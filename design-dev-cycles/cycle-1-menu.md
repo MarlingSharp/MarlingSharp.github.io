@@ -21,5 +21,21 @@ echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
 
+{% tabs %}
+{% tab title="First Tab" %}
+$$
+(A \bigvee B) \bigwedge \neg(C \bigvee D)
+$$
+{% endtab %}
+
+{% tab title="" %}
+
+{% endtab %}
+
+{% tab title="" %}
+
+{% endtab %}
+{% endtabs %}
+
 
 
