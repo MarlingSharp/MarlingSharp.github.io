@@ -49,7 +49,34 @@ In order to have a structured and organised approach to developing my game, I sh
 
 For example, my inputs would include the WASD keys for movement and the SHIFT key for slashing with a sword. These inputs will remain consistent throughout the entirety of my game, and will not be affected at all as the game changes, providing an easy-to-use interface for the game’s user. Furthermore, outputs need to be specified early on, such as my player character’s position in the game world, and any values that the player needs to be aware of \(amount of currency, health etc.\), so that the user can understand what is going on in the game and how their inputs will affect the above.
 
+### Thinking Procedurally & Decomposition
 
+Decomposition is the process by which a larger, more complex task is broken down into more simple, easy-to-manage tasks. This is key in ensuring that I focus on one part of the game at a time, and completely finish one section of the code before starting to code another. Furthermore, some elements of my code \(eg. enemy deaths, increasing the amount of currency held\) will be the same, so I can bundle each of these into reusable program components, that I can use frequently throughout my code without wasting extra time rewriting each component, or making unnecessary errors that I could easily avoid.
 
+### Thinking Logically
 
+Throughout the course of the game, the player should be able to make free decisions about what action to take if multiple options are presented to them. The program must be able to make logical decisions to accommodate all choices the player makes throughout the course of the game, as well as making enemies react to the player’s presence, and keeping track of player stats in the background. The player will be presented with a variety of options to choose between as the game progresses.
+
+* A player on the title screen should be able to decide what name they choose to save their progress under, which then displays their high score on a table in the title screen. The program must be able to accept all inputs for a name, and display the correct stored name as well as the relevant score that player got, as well as the total currency that player has accumulated.
+* In the shop, the player will be able to buy certain upgrades for their character, of which more than one will be available at the same time, thus the program needs to be capable of handling any decisions made by the player in any order, and store these under the correct player.
+
+The software itself must also be capable of making decisions regarding the game as it runs.
+
+* The program should be constantly checking for valid external inputs from the game’s user \(eg. WASD keys to move, SHIFT to use the sword...\), and ignoring those that should not be accepted. 
+* For the enemy movement, the program must be able to detect whether an enemy has ‘seen’ the player, and what actions it will take to move towards them. Whether or not to run a path algorithm to travel to the player character should depend on the distance between the player and the enemy, which the program should be constantly comparing while the game is active.
+
+### Thinking Concurrently
+
+When the game is running, several different tasks need to be carried out concurrently, meaning that multiple instructions are executed at the same time. This must be used for the following reasons:
+
+* Sound effects need to coincide with the relevant interaction in-game \(eg. a slashing sound when the player’s sword is swung\), so as to quickly present the reader with easy-to-understand user feedback on what actions they have taken and create an environment closer to real life. 
+* Player and enemy movement must occur at the same time in order to provide a more fluid and engaging player experience, as having the player and enemies taking turns to move would slow the game down significantly, which is not at all a desired outcome for a fast-paced game. To solve this, I could update sprite movement every frame, to simulate simultaneous movement
+
+## Research
+
+I have carried out research on games which present similar solutions to the problem I have set myself:
+
+### Hollow Knight
+
+![](.gitbook/assets/maxresdefault.jpg)
 
