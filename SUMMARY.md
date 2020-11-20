@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Content Page](README.md)
 * [Analysis \(One-Page\)](analysis-one-page.md)
 
 ## Analysis \(Split\) <a id="analysis"></a>
