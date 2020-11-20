@@ -1,4 +1,4 @@
-# Analysis \(One-Page\)
+# Analysis
 
 ## Defining The Problem
 

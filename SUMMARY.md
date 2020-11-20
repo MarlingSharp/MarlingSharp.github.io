@@ -1,19 +1,10 @@
 # Table of contents
 
 * [Content Page](README.md)
-* [Analysis \(One-Page\)](analysis-one-page.md)
+* [Analysis](analysis-one-page.md)
 
-## Analysis \(Split\) <a id="analysis"></a>
+## Design/Dev Cycles
 
-* [Defining the Problem](analysis/1.1.md)
-* [Justification of Computational Methods Used](analysis/1.2.md)
-
-## Design Development Cycles
-
-* [Cycle 1 - Menu](design-development-cycles/cycle-1-menu.md)
-* [Untitled](design-development-cycles/untitled.md)
-
----
-
-* [Some business](some-business.md)
+* [Cycle 1 - Menu](design-dev-cycles/cycle-1-menu.md)
+* [Cycle 2 - Something Awesome](design-dev-cycles/cycle-2-something-awesome.md)
 
