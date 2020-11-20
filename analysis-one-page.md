@@ -78,5 +78,38 @@ I have carried out research on games which present similar solutions to the prob
 
 ### Hollow Knight
 
-![](.gitbook/assets/maxresdefault.jpg)
+![The UI only shows health, currency and mana without using the menu.](.gitbook/assets/maxresdefault.jpg)
+
+#### Overview
+
+A metroidvania made by indie developer Team Cherry, Hollow Knight is a two-dimensional platformer designed around exploration and combat, where the player explores a large, predetermined map. This game implements action and platforming elements, as well as a simple attacking system, which although limited, is still engaging and fun to use. It has been released on all major consoles, such as PC, Xbox, PlayStation and Nintendo Switch.
+
+#### Controls
+
+Hollow Knight’s main character is fully controlled by the player, with moving being bound to the arrow keys, and attacking, inventory usage and abilities \(eg. spells\) are all bound to the left side of the keyboard \(ASDF and ZXCV keys\). These controls can be freely remapped at any point. The character moves along the x-axis, and can jump along the y-axis, although is bound to these as this is a 2D game.
+
+#### Story
+
+Hollow Knight is a very story-driven game, with the main character following a vaguely predetermined route through the world as they try to find out more about the lore surrounding the game world. The enemies and bosses in the game all have a backstory to them being there, and even the main character has a backstory and purpose in the game world, which the player will eventually learn more about as the game progresses.
+
+#### World Design
+
+The world that Hollow Knight is set in is predetermined, but features many biome-like sub-areas with individual environments, enemies, bosses and soundtracks to create an immersive atmosphere, which makes the player feel as if they are actually in that specific environment. The platforms and backgrounds of the game constantly follow a specific colour scheme and texture to further represent the biome the player is currently exploring, which gives an aesthetically pleasing experience.
+
+#### Features I Find Useful For My Game
+
+| Feature | Justification |
+| :--- | :--- |
+| 2D Side-Scrolling View | Having a side-on view means that the player can easily judge enemy distances, and respond to these accordingly. This also allows players to judge distances to make jumps and attacks. |
+| In-game currency | Having a currency that the player obtains from killing enemies gives the player another motive to play the game other than getting a high score, such as buying upgrades in the shop. |
+| An in-game shop | Being able to exchange currency for character upgrades means the player can feel rewarded for playing the game, adding more depth to the experience instead of limiting gameplay to getting a high score. |
+| Boss fights | Having boss fights helps to break up the flow of the game, adding diversity to the types of enemy the player will fight. |
+
+#### Features I Don’t Find Useful For My Game
+
+| Feature | Justification |
+| :--- | :--- |
+| Complex storyline | I believe that a combat-oriented arcade game does not need a storyline as complex as that of Hollow Knight , a mostly lore-driven game, as it will most likely not provide any enjoyment or understanding to the player, and detract from the action. |
+| Massive map | My game will occur mostly in box-stages with platforms, so a big game environment is completely unnecessary for my project, as it will remove focus from the combat and enemies. |
+| Exploration | The map will not have any secret rooms or similar, as the focus of the experience is to engage in combat, not world navigation |
 
