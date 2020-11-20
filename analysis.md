@@ -115,20 +115,3 @@ The world that Hollow Knight is set in is predetermined, but features many biome
 {% endtab %}
 {% endtabs %}
 
-#### Features I Find Useful For My Game
-
-| Feature | Justification |
-| :--- | :--- |
-| 2D Side-Scrolling View | Having a side-on view means that the player can easily judge enemy distances, and respond to these accordingly. This also allows players to judge distances to make jumps and attacks. |
-| In-game currency | Having a currency that the player obtains from killing enemies gives the player another motive to play the game other than getting a high score, such as buying upgrades in the shop. |
-| An in-game shop | Being able to exchange currency for character upgrades means the player can feel rewarded for playing the game, adding more depth to the experience instead of limiting gameplay to getting a high score. |
-| Boss fights | Having boss fights helps to break up the flow of the game, adding diversity to the types of enemy the player will fight. |
-
-#### Features I Don’t Find Useful For My Game
-
-| Feature | Justification |
-| :--- | :--- |
-| Complex storyline | I believe that a combat-oriented arcade game does not need a storyline as complex as that of Hollow Knight , a mostly lore-driven game, as it will most likely not provide any enjoyment or understanding to the player, and detract from the action. |
-| Massive map | My game will occur mostly in box-stages with platforms, so a big game environment is completely unnecessary for my project, as it will remove focus from the combat and enemies. |
-| Exploration | The map will not have any secret rooms or similar, as the focus of the experience is to engage in combat, not world navigation |
-
