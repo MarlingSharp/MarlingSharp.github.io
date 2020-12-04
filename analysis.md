@@ -16,7 +16,9 @@ My game is a 2D arcade platformer, designed to be a pick-up-and-play game, deman
 
 Personally, I am a great fan of 2D fighting platformers, so this game naturally appeals to me. Many other members of the gaming community appreciate such games, a chief example being Super Smash Bros. and Dead Cells. As such, my game would fit in with those stated above, thus would also be targeted to players such as myself.
 
-### PEGI Rating
+### PEGI Rating 
+
+![PEGi Ratings](.gitbook/assets/pegi-ratings-explained-600x314.png)
 
 The official website classifies their 7 rating as: “Game content with scenes or sounds that can possibly be frightening to younger children should fall in this category. Very mild forms of violence \(implied, non-detailed, or non-realistic violence\) are acceptable for a game with a PEGI 7 rating.” 
 
@@ -39,7 +41,7 @@ Computational methods would be ideal to create my project for several reasons:
 Abstraction is the process of removing unnecessary details from a program. Only important and essential aspects of the game world would be implemented into my game. This would include:
 
 * Weather should be abstracted away completely, as it has absolutely nothing to do with my game, as it occurs mostly within a closed room, so is unnecessary to develop. ● Graphics will be abstracted down to basic sprite, by using a pixel-art theme throughout the game, which would cut down time on aesthetic design by a considerable amount, as I am not sure I can create visually appealing graphics in the development time I have to create the game. 
-* Stage layout will be simple, with only the floor, the walls and a few platforms actually having colliders to interact with the player character and the enemies, which means I can safelyabstract away the background of the game as only aesthetics, meaning more development time spent on the more essential parts of my game. 
+* Stage layout will be simple, with only the floor, the walls and a few platforms actually having colliders to interact with the player character and the enemies, which means I can safely abstract away the background of the game as only aesthetics, meaning more development time spent on the more essential parts of my game. 
 * Enemy behaviour will, via abstraction, use the technique of raycasting to search for the player character, and will likely use the A\* algorithm to calculate and take the shortest path to the player. This method is much quicker and viable than creating physical ‘eyes’ for every single enemy to search for the player character. 
 * Rules relating to real life, such as fall damage, hunger and sleep, will not feature at all within my game, as I feel that their representation is useless within the boundaries of my game, as they detract from the experience and do not help in immersing the user into the action on screen.
 
