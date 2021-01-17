@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Content Page](README.md)
+* [{Project Title Here}](README.md)
 * [Analysis](analysis.md)
+* [Structure Diagram](structure-diagram.md)
 
 ## Design/Dev Cycles
 
 * [Cycle 1 - Menu](design-dev-cycles/cycle-1-menu.md)
-* [Cycle 2 - Something Awesome](design-dev-cycles/cycle-2-something-awesome.md)
 
