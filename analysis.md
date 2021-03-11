@@ -4,7 +4,9 @@
 
 ### Problem Space
 
-In the past several months, many of us are either experiencing lock-down or voluntarily following the social distancing rules to minimise our time spent outside due to the ongoing COVID-19 pandemic. Players of all ages and backgrounds embrace that power of play through video games. There are more than 214 million video game players across the United States, three quarters of all U.S. households have at least one person who plays video games, and 64 percent of U.S. adults and 70 percent of those under 18 regularly play video games. Large majorities of players say video games provide mental stimulation \(80 percent\) and relaxation \(79 percent\). \([2](reference-list.md)\)
+In the past several months, many of us are either experiencing lock-down or voluntarily following the social distancing rules to minimise our time spent outside due to the ongoing COVID-19 pandemic. As a result, players of all ages and backgrounds have embraced the power of play through video games. 
+
+There are more than 214 million video game players across the United States, three quarters of all U.S. households have at least one person who plays video games, and 64 percent of U.S. adults and 70 percent of those under 18 regularly play video games. Large majorities of players say video games provide mental stimulation \(80 percent\) and relaxation \(79 percent\)\([1](reference-list.md#entertainment-software-association-2020-essential-facts-online-available-at-https-www-theesa-com-wp-content-uploads-2020-07-final-edited-2020-esa_essential_facts-pdf)\).  Amazon-owned Twitch, where people watch other people play video games in live webcasts, chatting in real time with the streamer and other viewers, clocked five billion hours of viewed content in the second quarter of 2020 alone. The engagement is an 83% increase from last year.\([2](reference-list.md#may-e-2020-streamlabs-and-stream-hatchet-q2-2020-live-streaming-industry-report-online-medium-available-at-https-blog-streamlabs-com-streamlabs-stream-hatchet-q-2-2020-live-streaming-industry-report-44298-e0d-15-bc-accessed-11-mar-2021)\)
 
 ### Stakeholders
 
