@@ -2,13 +2,9 @@
 
 ## Defining The Problem
 
-### Project outline
+### Problem Space
 
-My project will consist of a 2D pixel-art survival platformer, an arcade which uses a predetermined set of rooms and enemies that the user will have to navigate through. The game is going to use a fixed camera around each room, which the user can navigate accordingly by using the X and Y axes on-screen. 
-
-The overall goal of this game is to reach a high core by killing randomly generating enemies, and defeating entire waves of them. The user will also be able to collect an in-game currency, which can be exchanged upon death for permanent buffs to each player character. High scores will be saved under the user’s inputted username in a score table all users can view. 
-
-This game will use simple keyboard controls, such as the A and D keys for simple left/right movement, the SPACE key to jump, the W and S keys to aim upwards or downwards, and the SHIFT key to slash with the sword. Having a relatively simple and recognisable control layout could provide younger or less experienced players with a user-friendly interface. This in turn makes my game available to a wider variety of target audiences.
+Computer games are ubiquitous and can be utilized for serious purposes such as health and education. \(Fleming et al., 2017\)
 
 ### Stakeholders
 
