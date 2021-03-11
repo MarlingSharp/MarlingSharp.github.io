@@ -1,9 +1,5 @@
 # Reference List
 
-## Reference list
-
-
-
 #### 1 Entertainment Software Association \(2020\). ESSENTIAL FACTS. \[online\] . Available at: https://www.theesa.com/wp-content/uploads/2020/07/Final-Edited-2020-ESA\_Essential\_facts.pdf.
 
 #### 2 May, E. \(2020\). Streamlabs & Stream Hatchet Q2 2020 Live Streaming Industry Report. \[online\] Medium. Available at: [https://blog.streamlabs.com/streamlabs-stream-hatchet-q2-2020-live-streaming-industry-report-44298e0d15bc](https://blog.streamlabs.com/streamlabs-stream-hatchet-q2-2020-live-streaming-industry-report-44298e0d15bc) \[Accessed 11 Mar. 2021\].
