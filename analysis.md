@@ -4,7 +4,7 @@
 
 ### Problem Space
 
-Computer games are ubiquitous and can be utilized for serious purposes such as health and education. \(Fleming et al., 2017\)
+In the past several months, many of us are either experiencing lock-down or voluntarily following the social distancing rules to minimise our time spent outside due to the ongoing COVID-19 pandemic. Players of all ages and backgrounds embrace that power of play through video games. There are more than 214 million video game players across the United States, three quarters of all U.S. households have at least one person who plays video games, and 64 percent of U.S. adults and 70 percent of those under 18 regularly play video games. Large majorities of players say video games provide mental stimulation \(80 percent\) and relaxation \(79 percent\). \([2](reference-list.md)\)
 
 ### Stakeholders
 
