@@ -12,7 +12,7 @@ In the field of game studies scholars have explored game playing experiences \([
 
 ### Stakeholders
 
-
+![](.gitbook/assets/jo_2020-esa_essential_facts_070820_final4-scaled.jpg)
 
 ### PEGI Rating 
 
