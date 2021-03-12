@@ -18,13 +18,9 @@ The Entertainment Software Association report on the games industry is a annual 
 
 >
 
-### PEGI Rating 
+### 
 
-![PEGi Ratings](.gitbook/assets/pegi-ratings-explained-600x314.png)
 
-The official website classifies their 7 rating as: “Game content with scenes or sounds that can possibly be frightening to younger children should fall in this category. Very mild forms of violence \(implied, non-detailed, or non-realistic violence\) are acceptable for a game with a PEGI 7 rating.” 
-
-Therefore, my target audience will be around the 7+ range, as I believe that although violence will be present, the graphical representation of my game, which uses pixel art, will not be graphic enough to frighten or negatively influence younger children, therefore will not fall into or above the PEGI 12 category. Furthermore, my game requires a frequent use of reflexes and a high reaction time. A younger audience, such as children under 7, may find it hard to keep up with the action on screen, so will not benefit much from playing it.
 
 ## Justification of Computational Methods Used
 
