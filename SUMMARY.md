@@ -7,10 +7,10 @@
 * [1.4 Features of the Proposed Solution](1.4-features-of-the-proposed-solution.md)
 * [1.5 Sucess Criteria and Requirments](1.5-sucess-criteria-and-requirments.md)
 * [1.7 Hardware and Software Requirments](1.7-hardware-and-software-requirments.md)
-* [2.1 Structure Diagram](structure-diagram.md)
 
 ## Design/Dev Cycles
 
+* [2.1 Structure Diagram](design-dev-cycles/structure-diagram.md)
 * [Cycle 1 - Menu](design-dev-cycles/cycle-1-menu.md)
 
 ---
