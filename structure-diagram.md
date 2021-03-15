@@ -1,2 +1,2 @@
-# Structure Diagram
+# 2.1 Structure Diagram
 
